@@ -23,7 +23,7 @@ const Navbar = () => {
   return (
     <Stack px={{md: 8, xl: 10}} height={300} bgImage={[bgImageMobile, bgImageDkt]} bgSize="cover">
       <HStack justify="space-between" p="4">
-        <Box>
+        <Box as="a" href="index.html">
           <Image src={logo} alt='logo' />
         </Box>
         <MenuResponsive/>
