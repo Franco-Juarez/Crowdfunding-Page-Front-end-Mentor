@@ -1,4 +1,4 @@
-import { Card, CardHeader, CardBody, Text, CardFooter, Heading, Box, Image, Progress, Stat, StatNumber, StatHelpText, Divider, VStack, Flex} from "@chakra-ui/react";
+import { Card, CardHeader, CardBody, Text, CardFooter, Heading, Box, Image, Progress, Stat, StatNumber, StatHelpText, VStack, Flex} from "@chakra-ui/react";
 import ProyectModal from "./proyectModal";
 import logoMastercraft from "../images/logo-mastercraft.svg"
 import Bookmark from "./bookmark";

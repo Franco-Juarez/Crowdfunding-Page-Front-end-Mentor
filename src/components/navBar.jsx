@@ -1,16 +1,10 @@
-import { Menu, 
-    MenuButton, 
-    MenuList, 
-    MenuItem,
-    IconButton, 
+import {
     Box, 
     Image,
     HStack,
     Stack,
-    Divider
   } from "@chakra-ui/react";
 
-import { CloseIcon, HamburgerIcon } from '@chakra-ui/icons';
 import logo from "../images/logo.svg"
 import bgImageMobile from "../images/image-hero-mobile.jpg"
 import bgImageDkt from "../images/image-hero-desktop.jpg"
